@@ -1,0 +1,42 @@
+MVP for luxe transportation
+---------------------------
+
+Passengers application
+--------------------
+1) Geolocate passenger.
+then geoocate and live track where
+the driver would be. ping phone every 5 seconds
+
+2) After user requests driver.
+They have a set amount of time to 
+cancel the ride.
+
+3) Passenger ratings?
+set up to where a driver or passenger can
+review the opposing user.
+
+--- Geolocate pasenger, or use their entered location... Button to show that a passenger can cancel the driver request, Passenger can rate driver.
+
+
+
+Driver Application 
+------------------
+1) Driver profile / status
+Driver will need to enter in their
+license, vehicle insurance, vehicle information.
+Driver information.   ---- this should be top priority.
+
+The status will let the passenger know 
+if they are currently available or they are busy
+
+2) Drivers will be sent trip orders from Passengers
+Where the drivers can accept or deny.
+This trip order will have information regarding the
+passenger.   --- When passenger subits request for driver, the driver dashboard should recieve a message.
+
+3) best route for driver using google map api.
+
+--- Driver profile and status update, Driver will possibly recieve notification when a passenger submits a driver request, driver will be sent trip orders from passenger.
+
+
+build out front end, back end, then database.
