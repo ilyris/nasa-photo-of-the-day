@@ -5,11 +5,17 @@ Passengers application
 --------------------
 1) Geolocate passenger.
 then geoocate and live track where
-the driver would be. ping phone every 5 seconds
+the driver would be. ping phone every 5 seconds ( on demand ) not booking.
 
 2) After user requests driver.
 They have a set amount of time to 
 cancel the ride.
+
+booked/real time. 
+
+booking ahead of time.
+
+set up to where they can "reserve" a ride.
 
 3) Passenger ratings?
 set up to where a driver or passenger can
